@@ -1,0 +1,27 @@
+h1 {
+    height: 100px;
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    
+}
+
+#motivation {
+    border-style: groove;
+    border-color: red;
+    text-align: center;
+    font-size: x-large;
+
+}
+
+#goals {
+    font-family: monospace; 
+    font-size: 20px;
+    border-style: double;
+    border-color: blue;
+}
+
+body {
+    background-color: lightgray;
+}
